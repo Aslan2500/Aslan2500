@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm Aslan Magamaev</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+### Hi there 👋, my name is Aslan
+My name is Aslan and I'm from Russia. Currently i'm 4th year student in Higher School of Economics in Saint-Petersburg. I'm learning Java and wish to become backend developer! You can check my projects in the pinned repositories! 
 
-🌱 I’m currently learning Java. You can check my pinned repository.
-   
-📫 How to reach me **aslanmagamaev@gmail.com**
+Skills: Java/Git/PostgreSQL
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/aslan_2500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslan_2500" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: aslanmagamaev@gmail.com/@ARMagamaev in Telegram 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslan2500&show_icons=true&locale=en&layout=compact" alt="aslan2500" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aslan2500)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aslan-magamaev-40773b228/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/qojcva/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Aslan_2500/)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslan2500&show_icons=true&locale=en" alt="aslan2500" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aslan2500)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslan2500&" alt="aslan2500" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aslan2500&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aslan2500)  
+
