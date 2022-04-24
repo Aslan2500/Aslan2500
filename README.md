@@ -3,8 +3,10 @@ My name is Aslan and I'm from Russia. Currently i'm 4th year student in Higher S
 
 Skills: Java/Git/PostgreSQL
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my own projects in order to improve my programming skills 
+- 🌱 I’m currently learning blockchain technology 
 - 📫 How to reach me: aslanmagamaev@gmail.com/@ARMagamaev in Telegram 
+- ⚡ Fun fact: I could be funny sometimes 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aslan2500)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aslan-magamaev-40773b228/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/qojcva/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Aslan_2500/)  
