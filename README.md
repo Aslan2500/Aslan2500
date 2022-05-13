@@ -17,3 +17,4 @@ Skills: Java/Git/PostgreSQL
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aslan2500)
 
+![Profile views](https://gpvc.arturio.dev/asfafafqw)  
