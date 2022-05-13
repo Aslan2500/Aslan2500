@@ -15,5 +15,6 @@ Skills: Java/Git/PostgreSQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aslan2500&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aslan2500)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aslan2500)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
