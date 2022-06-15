@@ -4,7 +4,7 @@ My name is Aslan and I'm from Russia. Currently i'm 4th year student in Higher S
 Skills: Java/Git/PostgreSQL
 
 - 🔭 I’m currently working on my own projects in order to improve my programming skills 
-- 🌱 I’m currently learning blockchain technology 
+- 🌱 I’m currently learning Spring framework 
 - 📫 How to reach me: aslanmagamaev@gmail.com/@ARMagamaev in Telegram 
 
 
